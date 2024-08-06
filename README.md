@@ -1,1 +1,2 @@
 # PRODIGY_CS_05
+A packet sniffer is a tool used to capture and analyze network traffic. It listens to the network, intercepting and logging the data packets that pass through the network interface. This tool can be used for various purposes such as network troubleshooting, performance analysis, and security monitoring. It is essential to emphasize that packet sniffing should be used ethically and legally, with appropriate permissions, to avoid privacy violations and legal issues.
